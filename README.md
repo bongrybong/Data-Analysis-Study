@@ -8,9 +8,11 @@
 ---
 
 ## 🚀 대시보드 (학습 현황)
-| 시작일 | 종료일 | 데이터셋 | 분석 목표 | 분석 노트 링크 |
+| 시작일 | 종료일 | 주제 | 데이터셋 | 분석 노트 링크 |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026-06-10 | 🏃‍➡️🤔💻.. | 뷰티스타트업의 주가 데이터 | 주가의 폭락 원인 파악하기 | [바로가기](https://www.kaggle.com/code/hassanjameelahmed/nice-one-beauty-market-performance-2025-2026/notebook) |
+| 2026-06-10 | 2026-06-20 | 주가의 폭락 원인 파악하기 | 뷰티스타트업의 주가 데이터 | [바로가기](https://www.kaggle.com/code/hassanjameelahmed/nice-one-beauty-market-performance-2025-2026/notebook) |
+| 2026-06-20 | 🏃‍➡️🤔💻.. | 의료 환자 흐름(Patient Flow) 분석 및 병원 자원 배분 최적화 | 중형 병원 환자 진료 기록 (Healthcare 데이터)| [바로가기](https://www.kaggle.com/code/hassanjameelahmed/hospital-operations-ai-analytics-patient) |
+
 
 ---
 
@@ -18,3 +20,19 @@
 1. 아무 생각없이 그냥 타이핑 금지, ctrl+c-v 금지 : 모든 코드는 직접 타이핑 !!!
 2. 왜????(why) ㅣ기록하기 ➔ 왜 이 그래프를 사용했고, 어떤 인사이트를 얻었는가.
    
+3. 디렉토리 구조
+
+    1. [001_프로젝트 제목]
+        1. 분석.ipynb
+        2. 새롭게 배우게 된 것 md
+        
+
+## 🗂️ 디렉토리 구조
+
+1. .venv (가상환경)
+2. 001_프로젝트1번_(날짜?)
+    1. 분석용.ipynb
+    2. 새롭게 배운 것, 기록용.md 
+3. 넓혀가는 세상_도메인지도 ➔ 새로운 도메인 배울 때 업데이트
+    1. 주식
+    2. 의료
